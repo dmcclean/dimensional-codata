@@ -17,9 +17,10 @@ tested-with:         GHC == 7.8.4, GHC == 7.10.1, GHC == 7.10.2
 
 description:
 
-    dimensional-codata provides the CODATA recommended values for fundamental
-    physical constants for use with the dimensional library
-    for physical quantities and units.
+    The dimensional-codata package provides the CODATA recommended values for fundamental
+    physical constants for use with the dimensional library for physical quantities and units.
+
+    Major version numbers represent the date of issue of the recommended values.
 
 extra-source-files:  README.md,
                      CHANGELOG.md
@@ -36,5 +37,3 @@ library
   ghc-options:         -Wall
   default-language:    Haskell2010
   exposed-modules:     Numeric.Units.Dimensional.Codata
-  -- other-modules:    
-  -- other-extensions:
