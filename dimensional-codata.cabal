@@ -17,7 +17,7 @@ tested-with:         GHC == 7.8.4, GHC == 7.10.1, GHC == 7.10.2
 
 description:
 
-    The dimensional-codata package provides the CODATA recommended values for fundamental
+    The dimensional-codata package provides a selection of the CODATA recommended values for fundamental
     physical constants for use with the dimensional library for physical quantities and units.
 
     Major version numbers represent the date of issue of the recommended values.
