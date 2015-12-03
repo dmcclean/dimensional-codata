@@ -76,7 +76,7 @@ fineStructureConstant = 7.2973525664e-3 *~ one
 -- | The magnetic constant, also commonly called the vacuum permeability, permeability of free space, or permeability of vacuum is an ideal
 -- physical constant, which is the value of magnetic permeability in a classical vacuum. Vacuum permeability is derived from production of
 -- a magnetic field by an electric current or by a moving electric charge and in all other formulas for magnetic-field production in a vacuum.
--- In the reference medium of classical vacuum it has an exact exact defined value in the SI system of units.
+-- In the reference medium of classical vacuum it has an exact value in the SI system of units.
 --
 -- The value given here is exact if you use exact arithmetic.
 magneticConstant :: (Floating a) => Permeability a
