@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                dimensional-codata
-version:             2014.0.0.1
+version:             2014.0.0.2
 synopsis:            CODATA Recommended Physical Constants with Dimensional Types
 homepage:            https://github.com/dmcclean/dimensional-codata/
 bug-reports:         https://github.com/dmcclean/dimensional-codata/issues/
