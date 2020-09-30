@@ -14,7 +14,7 @@ maintainer:          douglas.mcclean@gmail.com
 category:            Physics
 build-type:          Simple
 cabal-version:       >=1.10
-tested-with:         GHC == 7.8.4, GHC == 7.10.1, GHC == 7.10.2
+tested-with:         GHC == 7.8.4, GHC == 7.10.1, GHC == 7.10.2, GHC == 8.8.4
 
 description:
 
@@ -31,7 +31,7 @@ source-repository head
   location: https://github.com/dmcclean/dimensional-codata/
 
 library
-  build-depends:       base >=4.7 && <4.13,
+  build-depends:       base >=4.7 && <4.14,
                        dimensional >= 1.0,
                        numtype-dk >= 0.5 && < 1
   hs-source-dirs:      src
