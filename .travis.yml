@@ -20,6 +20,7 @@ env:
 - ARGS="--resolver lts-11"
 - ARGS="--resolver lts-12"
 - ARGS="--resolver lts-13"
+- ARGS="--resolver lts-16"
 
 before_install:
 # Download and unpack the stack executable
